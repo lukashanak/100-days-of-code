@@ -1,30 +1,7 @@
-# 100 Days Of Code - Log
+### Day 1: July 15, Wednesday.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: Some bug fixes/edits in my previous projects. Then I've done 5 first steps in the D3 tutorial on FCC (I need it for my project).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Time Spent**: 2 hours.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: When I started (about 3 PM) I couldn't focus well so I looked at my old projects and made some small changes/bug fixes. Then in the night, I was playing chess and when I started feeling focused, I started learning D3 on FCC. It was good I think, I was writing notes and it helped me to understand things much faster.
