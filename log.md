@@ -22,3 +22,12 @@
 
 **Thoughts**: In the afternoon when I was trying to understand and make something with D3, it was very stressful and I couldn't understand it and concentrate on it. I decided to give up D3, because it is too complicated for my simple purposes.. and picked up apexchart.js instead, which seems pretty simple. I don't want to spend too much time on this.
 
+
+### Day 1: July 22, Wednesday. (I missed 2 days in a row, so I am resetting)
+
+**Today's Progress**: I made some progress on my weather app. (all on github).
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: Good day :).
+
