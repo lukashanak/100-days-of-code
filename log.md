@@ -31,3 +31,20 @@
 
 **Thoughts**: Good day :).
 
+
+### Day 2: July 23, Thursday.
+
+**Today's Progress**:  I made a template for weekly / monthly charts + an option to easily switch between them.
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: I don't know what to say :D.
+
+### Day 3: July 24, Friday.
+
+**Today's Progress**: Day 3 of #100DaysOfCode Mostly thinking about the back end for my weather app (what tech to use, how will it all work together), and writing it down. It cleared my mind :).
+
+**Time Spent**: 1 hour.
+
+**Thoughts**: Good hour :).
+
