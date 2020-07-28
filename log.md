@@ -48,6 +48,16 @@
 
 **Thoughts**: Good hour :).
 
+
+
+### Day 5: July 25, Sunday.
+
+**Today's Progress**: Finished Sorted Union algorithm challenge on freecodecamp. Some pseudo coding for my weather app project. 
+
+**Time Spent**: 1 hour.
+
+**Thoughts**: :) 
+
 ### Day 4: July 25, Saturday.
 
 **Today's Progress**: Almost solved Sorted Union algorithm challenge on freecodecamp.
@@ -55,3 +65,4 @@
 **Time Spent**: 1 hour.
 
 **Thoughts**: I started too late, in the beginning, it was ok but then I had to take a pause and after the pause, I wasn't able to finish that... I had to start waking up earlier & start coding earlier.
+
