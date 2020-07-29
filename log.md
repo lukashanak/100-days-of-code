@@ -49,15 +49,6 @@
 **Thoughts**: Good hour :).
 
 
-
-### Day 5: July 25, Sunday.
-
-**Today's Progress**: Finished Sorted Union algorithm challenge on freecodecamp. Some pseudo coding for my weather app project. 
-
-**Time Spent**: 1 hour.
-
-**Thoughts**: :) 
-
 ### Day 4: July 25, Saturday.
 
 **Today's Progress**: Almost solved Sorted Union algorithm challenge on freecodecamp.
@@ -65,4 +56,31 @@
 **Time Spent**: 1 hour.
 
 **Thoughts**: I started too late, in the beginning, it was ok but then I had to take a pause and after the pause, I wasn't able to finish that... I had to start waking up earlier & start coding earlier.
+
+
+### Day 5: July 26, Sunday.
+
+**Today's Progress**: Finished Sorted Union algorithm challenge on freecodecamp. Some pseudo coding for my weather app project. 
+
+**Time Spent**: 1 hour.
+
+**Thoughts**: :) 
+
+
+### Day 6: July 27, Monday.
+
+**Today's Progress**: Started a project called memory game. Made a HTML & CSS part of it.
+
+**Time Spent**: 4 hours.
+
+**Thoughts**: Interesting day. My internet connection didn't work, so I had to take a pause with the weather station and start building something when I don't need a internet connection :D
+
+
+### Day 7: July 28, Tuesday.
+
+**Today's Progress**: Made an essential javascript part of the memory game. 
+
+**Time Spent**: 3 hours.
+
+**Thoughts**: Finally! I started right when I woke up! :) This project is so fun
 
