@@ -84,3 +84,13 @@
 
 **Thoughts**: Finally! I started right when I woke up! :) This project is so fun
 
+
+### Day 8: July 29, Thursday.
+
+**Today's Progress**: Cleaned some code. Wrote a function which generates an array containing random numbers (numbers can't repeat) for my project.
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: Again! I started early. Not a lot of work today, but still good and I enjoyed it :)
+
+
