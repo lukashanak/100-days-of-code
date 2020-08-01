@@ -85,7 +85,7 @@
 **Thoughts**: Finally! I started right when I woke up! :) This project is so fun
 
 
-### Day 8: July 29, Thursday.
+### Day 8: July 29, Wednesday.
 
 **Today's Progress**: Cleaned some code. Wrote a function which generates an array containing random numbers (numbers can't repeat) for my project.
 
@@ -94,3 +94,21 @@
 **Thoughts**: Again! I started early. Not a lot of work today, but still good and I enjoyed it :)
 
 
+### Day 9: July 30, Thursday.
+
+**Today's Progress**: Made some changes to the memory game, started fibonacci challenge on fcc
+
+**Time Spent**: 1 hours.
+
+**Thoughts**: not a good day
+
+
+### (31. july, skipped one day)
+
+### Day 10: August 1 , Saturday.
+
+**Today's Progress**: Finished memory game (it sucks, but it was really fun to make and I learned something new :) ) Link here:  https://lukashanak.github.io/memory-game/
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: I started a little bit too late, but it was really good :) I was listening to the classical essentials playlist on spotify :D 
