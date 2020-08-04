@@ -112,3 +112,22 @@
 **Time Spent**: 2 hours.
 
 **Thoughts**: I started a little bit too late, but it was really good :) I was listening to the classical essentials playlist on spotify :D 
+
+
+### Day 11: August 2 , Sunday.
+
+**Today's Progress**: I was watching some tutorials and was playing with some stuff, then I was really tired to code so I didn't do an actual work..
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: idk :D
+
+
+### Day 12: August 3 , Monday.
+
+**Today's Progress**: I refactored, basically deleted and wrote new js code for my todo list app. Finally a readable code :)
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: It was really fun :) I started a really late, it was really hard to start and get into the flow.. and then I couldn't go away from my computer and stop coding :D
+
