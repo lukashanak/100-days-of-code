@@ -131,3 +131,11 @@
 
 **Thoughts**: It was really fun :) I started a really late, it was really hard to start and get into the flow.. and then I couldn't go away from my computer and stop coding :D
 
+
+### Day 13: August 4 , Wednesday.
+
+**Today's Progress**: Learned and used ES6 modules in my project. Finished a function, which adds a new todo to the data and calls a function imported from the module (creating html elements is too messy in vanilla js, let's hide it :D), which renders todo to the DOM.
+
+**Time Spent**: 3 hours.
+
+**Thoughts**: Spend a lot of time with small problems today. But it was fun :) and I made some steps forward again. Feels really good
