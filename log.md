@@ -138,4 +138,4 @@
 
 **Time Spent**: 3 hours.
 
-**Thoughts**: Spend a lot of time with small problems today. But it was fun :) and I made some steps forward again. Feels really good
+**Thoughts**: Spent a lot of time with small problems today. But it was fun :) and I made some steps forward again. Feels really good
