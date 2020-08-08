@@ -149,3 +149,15 @@
 **Time Spent**: 4 hours.
 
 **Thoughts**: Today was a really good day :) Yeah! I am so happy :D 
+
+
+### (August 6, skipped so I can't miss a day next 14 days)
+
+
+### Day 15: August 7 , Friday.
+
+**Today's Progress**: Started using a local storage for my todo-list app, so todos are always saved even if you close the tab. (works on mobile devices too) Link here: https://lukashanak.github.io/js-todoapp/index.html
+
+**Time Spent**: 1.5 hours.
+
+**Thoughts**: I just sited down. Turned on the Inception music playlist and started working. This is how magic works :D 
