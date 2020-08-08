@@ -144,7 +144,7 @@
 
 ### Day 14: August 5 , Wednesday.
 
-**Today's Progress**: Great day, big progress today! I refactored a HTML & CSS && function for creating a HTML DOM in my todo-list app. I learned A LOT.  
+**Today's Progress**: Great day! I refactored a HTML & CSS && function for creating a HTML DOM in my todo-list app.
 
 **Time Spent**: 4 hours.
 
