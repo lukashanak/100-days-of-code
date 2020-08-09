@@ -161,3 +161,12 @@
 **Time Spent**: 1.5 hours.
 
 **Thoughts**: I just sited down. Turned on the Inception music playlist and started working. This is how magic works :D 
+
+
+### Day 16: August 8 , Saturday.
+
+**Today's Progress**: Studying how HTTP works, choosing between PHP / NodeJS (Node won), reading eloquent js.. Not a good day, but I need to learn & do some back end in order to continue with my weather app.
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: I started too late. I was procrastinating, because I didn't know what exactly to do. I have to sit down and study for many hours next day and actually make some, even a small project / just write some code.
