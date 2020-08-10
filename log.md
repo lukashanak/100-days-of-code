@@ -170,3 +170,13 @@
 **Time Spent**: 2 hours.
 
 **Thoughts**: I started too late. I was procrastinating, because I didn't know what exactly to do. I have to sit down and study for many hours next day and actually make some, even a small project / just write some code.
+
+
+
+### Day 17: August 9 , Sunday.
+
+**Today's Progress**: Spent a lot of time looking around. I jumped into the node.js but then realized that I don't know prerequisites/principles. I will have to study for a few days.
+
+**Time Spent**: 3 hours.
+
+**Thoughts**: Bad day.. :D I forget how to learn... I was just reading an articles like an idiot and didn't understant the stuff properly.. Then I remembered how I was learning sooner. So I connected the second monitor. On the left, I had a learning resources and on the rigt, I had a google docs. And I started explaining the things in my own words. This always worked pretty well for me.. So my plan for tomorrow is: Make a plan for learning a node.js and start learning it, take notes... so you can start building your back end as soon as possible :)
