@@ -180,3 +180,22 @@
 **Time Spent**: 3 hours.
 
 **Thoughts**: Bad day.. :D I forget how to learn... I was just reading an articles like an idiot and didn't understant the stuff properly.. Then I remembered how I was learning sooner. So I connected the second monitor. On the left, I had a learning resources and on the rigt, I had a google docs. And I started explaining the things in my own words. This always worked pretty well for me.. So my plan for tomorrow is: Make a plan for learning a node.js and start learning it, take notes... so you can start building your back end as soon as possible :)
+
+
+
+### Day 18: August 10 , Monday.
+
+**Today's Progress**: Learning new stuff and concepts, like asynchronous programming etc.
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: Boring. I did not enjoyed this day and made a small progress, but I will keep going.
+
+
+### Day 19: August 11 , Tuesday.
+
+**Today's Progress**: Learning ES6 features like rest, object desctructing, methods like map()...
+
+**Time Spent**: 2 hours.
+
+**Thoughts**: Better than yesterday.
