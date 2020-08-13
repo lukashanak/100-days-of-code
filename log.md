@@ -199,3 +199,7 @@
 **Time Spent**: 2 hours.
 
 **Thoughts**: Better than yesterday.
+
+
+## August 12, I tried, couldn't focus, too tired, I don't understand what is going on, it's really bad :/ I'll try to keep going no matter how I feel
+
