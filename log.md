@@ -206,11 +206,11 @@
 
 ### Day 20: August 13 , Thursday.
 
-**Today's gaol**: Make a fuck*** plan. Exactly whad do you need to do to become a front end dev. What skills do you need to have. What you actually know and what you need to learn. What proejct do you need tot build? It doesn't have to be perfect, just write some fucking plan. You need to see what you have to do, like in the MMORPG game. Write a post on freecodecamp forum. Introduce yourself and find an accountability partner. This is the mindset part. It will save you a lot of deppresion and time in the future.
+**Today's gaol**: Make a fuck*** plan. Exactly whad do you need to do to become a front end dev. What skills do you need to have. What you actually know and what you need to learn. What proejct do you need tot build? It doesn't have to be perfect, just write some plan. You need to see what you have to do, like in the MMORPG game. Write a post on freecodecamp forum. Introduce yourself and find an accountability partner. This is the mindset part. It will save you a lot of deppresion and time in the future.
 Second part. Start some project. Create a process from the start to the end. Then start realizing it. 4 pomodoros, no excuses. You need to see the f**** results, then you will feel motivated.
 
-**Today's Progress**: 
+**Today's Progress**: Missed previous day. I toke one step back and made a plan. I feel much better now. I started a memory game again, now I'll make sure that it will look and work really good.
 
-**Time Spent**:
+**Time Spent**: 3
 
-**Thoughts**: 
+**Thoughts**: I feel much better. It's going to be fun again. I just need to have a plan (I have it now) and see the results. Nothing makes me feel mroe depressed than when I don't see progress. Just-in time and project-based learning is my new best friend :) 
