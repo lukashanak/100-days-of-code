@@ -214,3 +214,18 @@ Second part. Start some project. Create a process from the start to the end. The
 **Time Spent**: 3 hours
 
 **Thoughts**: I feel much better. It's going to be fun again. I just need to have a plan (I have it now) and see the results. Nothing makes me feel mroe depressed than when I don't see progress. Just-in time and project-based learning is my new best friend :) 
+
+
+
+### Day 21: August 14 , Friday.
+
+**Today's goal**:
+- Make structure for HTML / CSS part of the memory game, (so you will know what to do when you will jump into the coding)
+- Write HTML / CSS part of the memory game. Use the structure in the previous step. 
+- Write a post on freecodecamp forum. Introduce yourself and find an accountability partner. 
+
+**Today's Progress**: 
+
+**Time Spent**: 
+
+**Thoughts**:
