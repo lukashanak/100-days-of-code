@@ -211,6 +211,6 @@ Second part. Start some project. Create a process from the start to the end. The
 
 **Today's Progress**: Missed previous day. I toke one step back and made a plan. I feel much better now. I started a memory game again, now I'll make sure that it will look and work really good.
 
-**Time Spent**: 3
+**Time Spent**: 3 hours
 
 **Thoughts**: I feel much better. It's going to be fun again. I just need to have a plan (I have it now) and see the results. Nothing makes me feel mroe depressed than when I don't see progress. Just-in time and project-based learning is my new best friend :) 
