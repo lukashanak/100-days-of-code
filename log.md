@@ -224,8 +224,7 @@ Second part. Start some project. Create a process from the start to the end. The
 - Write HTML / CSS part of the memory game. Use the structure in the previous step. 
 - Write a post on freecodecamp forum. Introduce yourself and find an accountability partner. 
 
-**Today's Progress**: 
+**Today's Progress**: Did it
 
-**Time Spent**: 
 
-**Thoughts**:
+### Next days are on my twitter: https://twitter.com/hanakl22
