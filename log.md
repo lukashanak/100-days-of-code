@@ -51,23 +51,19 @@
 
 
 
-### Day 5: March 16, Tuesday.
+### Day 6: March 17, Wednesday.
 
 **Today's Progress**: 
-- I made some progress on Interior Consultant Website
+- I watched a video on some css
 
 **Time Spent**:
-- at least 5 hours (3.5 hours coding, 1 hour presentation about coding - chill, 45 minutes of focused watching of videos on responsive css, 20 minutes at least reading stuff about methodologies like BEM )
+- about 30 minutes of watching a videos
 
 **Thoughts**: 
+- Bad day. I know why and I will try to change it tomorrow and get 5 hours again.
 
 
-### Day 1: March 12, Friday.
-
-**Today's Progress**: 
-
-
-**Time Spent**:
-
+### Day 6: March 17, Thursday.
 
 **Thoughts**: 
+- I tried but could not focus today. Similar like yesterday. So I missed 2 days in the row. I am reseting the challenge
