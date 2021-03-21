@@ -13,7 +13,7 @@
 ### Day 1: March 20, Saturday.
 
 **Today's Progress**: 
-- Found and read/watched articles/videos on how to implement responsive web design principles in my projects. 
+- Found and ate some stuff on how to implement responsive web design principles in my projects, including the best practices (mobile-first etc..)
 - Started working on making website look well on bigger devices
 
 **Time Spent**:
