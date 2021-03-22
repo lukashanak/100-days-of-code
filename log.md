@@ -22,3 +22,16 @@
 **Thoughts**: 
 - Good.
 
+
+### Day 2: March 21, Sunday.
+
+**Today's Progress**: 
+- Started working on the coding homework for school (C++)
+- Watched some videos on responsive web design
+
+**Time Spent**:
+- 1.5 hours
+
+**Thoughts**: 
+- Good.
+
