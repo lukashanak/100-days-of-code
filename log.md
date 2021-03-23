@@ -53,7 +53,7 @@
 - Finished school homework (PHP and MySQL) (1 hours, 45 minutes)
 
 **Time Spent**:
-- 
+- 1 hours, 45 minutes
 
 **Thoughts**: 
-- 
+- 100% worth it
