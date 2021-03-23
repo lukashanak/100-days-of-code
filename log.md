@@ -26,7 +26,7 @@
 ### Day 2: March 21, Sunday.
 
 **Today's Progress**: 
-- Started working on the coding homework for school (C++)
+- Started working on the school homework (C++)
 - Watched some videos on responsive web design
 
 **Time Spent**:
@@ -35,3 +35,25 @@
 **Thoughts**: 
 - Good.
 
+### Day 3: March 22, Monday.
+
+**Today's Progress**: 
+- Finished school homework (C++)
+- Started working on another school homework (PHP and MySQL)
+
+**Time Spent**:
+- at least 1 hour
+
+**Thoughts**: 
+- No thoughts.
+
+### Day 4: March 23, Tuesday.
+
+**Today's Progress**: 
+- Finished school homework (PHP and MySQL) (1 hours, 45 minutes)
+
+**Time Spent**:
+- 
+
+**Thoughts**: 
+- 
