@@ -58,5 +58,4 @@
 **Thoughts**: 
 - 100% worth it
 
-### March 24, Wednesday.
-### missed day
+### March 24, Wednesday - missed
