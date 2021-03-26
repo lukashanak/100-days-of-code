@@ -59,3 +59,15 @@
 - 100% worth it
 
 ### March 24, Wednesday - missed
+
+### Day 5: March 25, .Thursday
+
+**Today's Progress**: 
+- I wached a few videos about grid (1 hours)
+- I was working on making Interior Consultant Page show well on tablets/desktops.
+
+**Time Spent**:
+- 4 hours
+
+**Thoughts**: 
+- Today was really frustrating. 
