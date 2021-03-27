@@ -60,7 +60,7 @@
 
 ### March 24, Wednesday - missed
 
-### Day 5: March 25, .Thursday
+### Day 5: March 25, Thursday
 
 **Today's Progress**: 
 - I wached a few videos about grid (1 hours)
@@ -71,3 +71,16 @@
 
 **Thoughts**: 
 - Today was really frustrating. 
+
+### March 26, Friday - missed
+
+### Day 6: March 27, Saturday
+
+**Today's Progress**: 
+- I finished Interiior Consultant Page
+
+**Time Spent**:
+- 4 hours
+
+**Thoughts**: 
+- F****** footer. I guess that I will come back to it later. Frustrating day.
