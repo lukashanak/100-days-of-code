@@ -77,10 +77,10 @@
 ### Day 6: March 27, Saturday
 
 **Today's Progress**: 
-- I finished Interiior Consultant Page
+- I almost finished Interiior Consultant Page.
 
 **Time Spent**:
 - 4 hours
 
 **Thoughts**: 
-- Frustrating day. I hate when something doesn't work and it doesn't make any sense. Stupid. I can't believe that I spent so much hours on such a stupid thing - footer - and making it work well. And guess what? It still doesn't work like it should.
+- Frustrating day.
