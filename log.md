@@ -83,4 +83,4 @@
 - 4 hours
 
 **Thoughts**: 
-- F****** footer. I guess that I will come back to it later. Frustrating day.
+- Frustrating day. I hate when something doesn't work and it doesn't make any sense. Stupid. I can't believe that I spent so much hours on such a stupid thing - footer - and making it work well. And guess what? It still doesn't work like it should.
