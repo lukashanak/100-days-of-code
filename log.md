@@ -80,7 +80,23 @@
 - I almost finished Interiior Consultant Page.
 
 **Time Spent**:
-- 4 hours
+- At least 3 hours
 
 **Thoughts**: 
 - Frustrating day.
+
+
+### Day 7: March 28, Sunday
+
+**Today's Progress**: 
+- Finished Interior Consultant Page.
+
+**Link to work**:
+- https://github.com/lukashanak/interior-consultant-main
+
+**Time Spent**:
+- 4 hours 
+
+
+**Thoughts**: 
+- Finally finished
