@@ -77,7 +77,7 @@
 ### Day 6: March 27, Saturday
 
 **Today's Progress**: 
-- I almost finished Interiior Consultant Page.
+- I almost finished Interior Consultant Page.
 
 **Time Spent**:
 - At least 3 hours
@@ -99,4 +99,4 @@
 
 
 **Thoughts**: 
-- Finally finished
+- Finally finished! It took much more time than I expected
