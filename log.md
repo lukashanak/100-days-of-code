@@ -97,6 +97,19 @@
 **Time Spent**:
 - 5 hours+ 
 
-
 **Thoughts**: 
 - Finally finished! It took much more time than I expected
+
+
+
+### Day 8: March 29, Monday
+
+**Today's Progress**: 
+- I did one in-deep code review.
+- I was reading a book about responsive web design
+
+**Time Spent**:
+- 1.5 hours+ 
+
+**Thoughts**: 
+- Good. I did not want to rest but I had to.
