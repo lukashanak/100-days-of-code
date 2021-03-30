@@ -106,10 +106,23 @@
 
 **Today's Progress**: 
 - I did one in-deep code review.
-- I was reading a book about responsive web design
+- I was reading a book about a web design
 
 **Time Spent**:
-- 1.5 hours+ 
+- 2.5 hours+ 
 
 **Thoughts**: 
-- Good. I did not want to rest but I had to.
+- Good. I did not want to rest but I had to. I did not get enough sleep.
+
+
+### Day 9: March 30, Tuesday
+
+**Today's Progress**: 
+- I fixed some issues on Interior Consultant Page (due to feedback from other developers)(1 hour)
+- I was reading a book about a web design (1 hour)
+
+**Time Spent**:
+- 2 hours 
+
+**Thoughts**: 
+- I can't wait to start building another project.
