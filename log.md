@@ -126,3 +126,5 @@
 
 **Thoughts**: 
 - I can't wait to start building another project.
+
+### Day 10: March 31, Wednesday - missed
