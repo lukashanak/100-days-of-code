@@ -127,4 +127,19 @@
 **Thoughts**: 
 - I can't wait to start building another project.
 
-### Day 10: March 31, Wednesday - missed
+### March 31, Wednesday - missed
+
+
+### Day 10: April 1, Thursday
+
+**Today's Progress**: 
+- Started and almost finished team page challenge project from devchallenges.io
+
+**Time Spent**:
+- 5 hours+ 
+
+**Thoughts**: 
+- xD 
+
+
+
