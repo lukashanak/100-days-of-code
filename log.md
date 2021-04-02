@@ -142,4 +142,15 @@
 - xD 
 
 
+### Day 11: April 2, Friday
+
+**Today's Progress**: 
+- Finished My team page challenge from devchallenges.io
+- Started Recipe blog challenge from devchallenges.io
+
+**Time Spent**:
+- 2 hours+
+
+**Thoughts**: 
+- 
 
