@@ -152,6 +152,6 @@
 - 2 hours+
 
 **Thoughts**: 
-- 
+- idk
 
 ### April 3, Saturday - missed
