@@ -168,4 +168,4 @@
 - 1.5 hours+
 
 **Thoughts**: 
-- I started too late. I would like to continue but it's 2:30 AM.
+- I would like to continue but it's 2:30 AM. Gonna start earlier tomorrow.
