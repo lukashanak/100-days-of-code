@@ -155,3 +155,17 @@
 - idk
 
 ### April 3, Saturday - missed
+
+
+
+### Day 12: April 4, Sunday
+
+**Today's Progress**: 
+- Continued working on the Recipe page challenge
+- Reading a book about web development
+
+**Time Spent**:
+- 1.5 hours+
+
+**Thoughts**: 
+- I started too late. I would like to continue but it's 2:30 AM.
