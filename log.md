@@ -169,3 +169,17 @@
 
 **Thoughts**: 
 - I would like to continue but it's 2:30 AM. Gonna start earlier tomorrow.
+
+
+### April 6 - 12 - missing days, gonna start from day 0
+
+### Day 0: April 13, Tuesday
+
+**Today's Progress**: 
+- Continued working on the Recipe page challenge
+
+**Time Spent**:
+- 1.5 hours+
+
+**Thoughts**: 
+- I would like to continue but it's 2:30 AM. Gonna start earlier tomorrow.
